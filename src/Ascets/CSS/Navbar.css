@@ -1,0 +1,4 @@
+#navcontent{
+    display: flex;
+    justify-content: end;
+}
